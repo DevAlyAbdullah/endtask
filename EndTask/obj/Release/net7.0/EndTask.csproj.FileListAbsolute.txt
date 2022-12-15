@@ -1,0 +1,15 @@
+D:\Workstation\From Scratch Applications\EndTask\EndTask\bin\Release\net7.0\EndTask.exe
+D:\Workstation\From Scratch Applications\EndTask\EndTask\bin\Release\net7.0\EndTask.deps.json
+D:\Workstation\From Scratch Applications\EndTask\EndTask\bin\Release\net7.0\EndTask.runtimeconfig.json
+D:\Workstation\From Scratch Applications\EndTask\EndTask\bin\Release\net7.0\EndTask.dll
+D:\Workstation\From Scratch Applications\EndTask\EndTask\bin\Release\net7.0\EndTask.pdb
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\EndTask.csproj.AssemblyReference.cache
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\EndTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\EndTask.AssemblyInfoInputs.cache
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\EndTask.AssemblyInfo.cs
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\EndTask.csproj.CoreCompileInputs.cache
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\EndTask.dll
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\refint\EndTask.dll
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\EndTask.pdb
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\EndTask.genruntimeconfig.cache
+D:\Workstation\From Scratch Applications\EndTask\EndTask\obj\Release\net7.0\ref\EndTask.dll
